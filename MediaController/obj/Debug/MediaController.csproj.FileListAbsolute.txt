@@ -1,0 +1,9 @@
+c:\users\joseph\documents\visual studio 2012\Projects\MediaController\MediaController\bin\Debug\MediaController.exe.config
+c:\users\joseph\documents\visual studio 2012\Projects\MediaController\MediaController\obj\Debug\MediaController.csprojResolveAssemblyReference.cache
+c:\users\joseph\documents\visual studio 2012\Projects\MediaController\MediaController\obj\Debug\Interop.iTunesLib.dll
+c:\users\joseph\documents\visual studio 2012\Projects\MediaController\MediaController\obj\Debug\MediaController.csproj.ResolveComReference.cache
+c:\users\joseph\documents\visual studio 2012\Projects\MediaController\MediaController\bin\Debug\MediaController.exe
+c:\users\joseph\documents\visual studio 2012\Projects\MediaController\MediaController\bin\Debug\MediaController.pdb
+c:\users\joseph\documents\visual studio 2012\Projects\MediaController\MediaController\obj\Debug\MediaController.exe
+c:\users\joseph\documents\visual studio 2012\Projects\MediaController\MediaController\obj\Debug\MediaController.pdb
+c:\users\joseph\documents\visual studio 2012\Projects\MediaController\MediaController\bin\Debug\Interop.iTunesLib.dll
